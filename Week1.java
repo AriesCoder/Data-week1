@@ -106,10 +106,10 @@ public class Week1 {
 		displayNumbers();// display element of array
 		append("6"); // append element into string array
 		append("2");
-		append("4");
+		append("null");// append null element into string array
 		append("3");
 		append("1");
-		append(null);// append null element into string array
+		append("7");
 		displayNumbers();
 		// Search 
 		System.out.println("-------SEARCH-----------");
